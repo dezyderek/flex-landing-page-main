@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "file": "C:/Users/dezyd/OneDrive/Dokumenter/GitHub/flex-landing-page-main/index.html"
+            "file": "C:/Users/dezyd/OneDrive/Dokumenter/GitHub/flex-landing-page-main/flex-landing-page-main/index.html"
             
         }
     ]
