@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-    color: #59877F;
+    color: #26329c;
 }
 
 .links {
@@ -70,7 +70,7 @@ header {
 
 .header-left button {
     padding: 10px 20px;
-    background-color: #59877F;
+    background-color: #719cb6;
     border: none;
     border-radius: 8px;
     color: #B5BCAC;
