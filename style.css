@@ -1,0 +1,180 @@
+/*
+Palette
+tan - #B5BCAC
+pastal - #59877F
+forest - #104235
+dark blue - #0F4149
+black - #151C22
+*/
+html,
+body {
+    margin: 0;
+    background-color: #B5BCAC;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 4em;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 0 200px 0 200px;
+}
+
+a {
+    text-decoration: none;
+    color: #B5BCAC;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 10px 0 10px;
+}
+
+a:hover {
+    color: #59877F;
+}
+
+.links {
+    margin: 0 0 0 auto;
+}
+
+header {
+    background-color: #0F4149;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px 100px 200px;
+}
+
+.hero-img {
+    width: 400px;
+    border-radius: 8px;
+}
+
+.header-left h1 {
+    color: #B5BCAC;
+}
+
+.header-left p {
+    color: #8e9486;
+}
+
+.header-left button {
+    padding: 10px 20px;
+    background-color: #59877F;
+    border: none;
+    border-radius: 8px;
+    color: #B5BCAC;
+    border: 2px solid #59877F;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header-left button:hover {
+    background-color: #0F4149;
+    border: 2px solid #B5BCAC;
+    ;
+}
+
+.information-container {
+    padding: 50px 100px;
+    text-align: center;
+}
+
+.information-container h1 {
+    color: #0F4149;
+    margin-bottom: 50px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.info-img-container {
+    flex: 0 1 0;
+}
+
+.info-img-container p {
+    margin: 0;
+    color: #59877F;
+    font-size: 1em;
+}
+
+.info-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 8px solid #59877F;
+}
+
+.testimontial {
+    padding: 150px;
+    background-color: #104235;
+    color: #B5BCAC;
+
+}
+
+.testimontial p {
+    font-family: 'Chelsea Market', cursive;
+    font-style: italic;
+    margin: 0 70px 0 70px;
+}
+
+.calltoaction-container {
+    background-color: #59877F;
+    margin: 100px 250px;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.calltoaction-container-left h2 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 2em;
+    color: #B5BCAC;
+    margin: 0;
+}
+
+.calltoaction-container-left p {
+    color: #B5BCAC;
+    margin: 0;
+}
+
+.calltoaction-container-right button {
+    padding: 10px 20px;
+    background-color: #59877F;
+    border: 2px solid #B5BCAC;
+    border-radius: 8px;
+    color: #B5BCAC;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.calltoaction-container-right button:hover {
+    background-color: #B5BCAC;
+    border: 2px solid #59877F;
+    color: #59877F;
+}
+
+footer {
+    background-color: #0F4149;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    color: #B5BCAC;
+}
