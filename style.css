@@ -9,7 +9,7 @@ black - #151C22
 html,
 body {
     margin: 0;
-    background-color: #B5BCAC;
+    background-color: #17818f;
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 }
 
 header {
-    background-color: #0F4149;
+    background-color: #3e3bce;
 }
 
 .header-container {
